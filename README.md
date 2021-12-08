@@ -18,6 +18,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to contribute
 
+Please fork this repository and the issue Pull Requests for review.
+
 ### Copyright
 
 Copyright Kalyan, 2021
