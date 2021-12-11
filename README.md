@@ -23,4 +23,4 @@ Please fork this repository and the issue Pull Requests for review.
 
 ### Copyright
 
-Copyright Kalyan, 2021
+Copyright Kalyan, 2021. All rights reserved.
